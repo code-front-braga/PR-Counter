@@ -15,7 +15,6 @@ Este projeto é um contador que oferece três funcionalidades principais:
 
 Para ter acesso a esse projeto, faça os seguintes passos:
 
-### **1. Pré-requisitos:**
 
 - **IDE:** Garanta que tenha uma IDE instalada na sua máquina (por exemplo, Visual Studio Code).
 
