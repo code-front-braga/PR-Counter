@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: url('.src/assets/images/bg.jpg') center/cover no-repeat;
+  background: url('./src/assets/images/bg.jpg') center/cover no-repeat;
 
   height: 100vh;
 
